@@ -1,11 +1,11 @@
 # Campus Course & Records Manager (CCRM)
-Author: Ananjay Goyal
+Author: hanu
 
 ## Overview
 Java SE console project demonstrating OOP, enums, builder, singleton,
 file I/O with NIO.2, recursion, and menu-driven CLI.
 
-Prepared by **Ananjay Goyal**  
+Prepared by **hanu**  
 Generated on 2025-09-23 12:00:49Z
 
 ## Compile & Run
